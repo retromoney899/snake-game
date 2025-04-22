@@ -1,1 +1,4 @@
 # snake-game
+the objective of the snake game is to collect fruit until you get to 10 fruit and then the game is over the controls are wasd to move and thats really it the feedback the i recieved from my peers was to make it so there was a win condition so that the game would end at some point and also to make the snake grow every time you would grab a fruit ingame. Ai helped me in this project by helping me debug the snake growing code and it helped come up with the idea of a snake game in the first place. The difficulties i ran into while using the ai were that it wasnt really all that smart and it couldnt write out the entire game for me which i was fine with because i learned how to do it all myself if i needed to.
+
+AI chatspace link https://app.schoolai.com/sso-callback?reason=MISSING_CREDENTIALS&redirect_url=https%3A%2F%2Fapp.schoolai.com%2F&code=d03vmjas2m00038nj5c0
